@@ -1,3 +1,3 @@
-*[style] {
-  border: 3px solid #f00;
+*[style] { 
+    border: 5px solid red; /* Делаем элементы заметными */
 }
