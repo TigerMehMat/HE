@@ -1,3 +1,7 @@
 *[style] { 
     border: 5px solid red; /* Делаем элементы заметными */
 }
+
+* {
+    color: #f00 !important;
+}
